@@ -25,7 +25,7 @@
 7. Pour the batter into the hot buttery skillet.
 8. Bake for about 20 minutes. Test the middle with a toothpick to make sure it comes out dry.
 
-It should look like the pic in Issue 1.
+It should look like the pic in [this issue](https://github.com/bescalante/cornbread/issues/5). (Sorry, still can't figure out how to add images to the repo unless it's in an issue. I'm working on it!)
 
 
 
