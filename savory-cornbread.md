@@ -5,9 +5,9 @@ Before you start baking, you'll need to fry up a pack of thick-cut bacon in a 9 
 ### Ingredients:
 
 #### Dry
-- 1 1/2 cups ground cornmeal (I like it coarse for a little crunch)
-- 1/2 cup all-purpose flour
-- 1 teaspon of salt
+- 1 1/3 cups ground cornmeal (I like it coarse for a little crunch)
+- 2/3 cup all-purpose flour
+- 1 teaspoon of salt
 - 1 teaspoon of baking powder
 - 1 teaspoon of baking soda
 
@@ -15,8 +15,8 @@ Before you start baking, you'll need to fry up a pack of thick-cut bacon in a 9 
 #### Wet
 - 2 eggs
 - 1 1/2 cups of buttermilk
-- 1/8 cup (4 tablespoons) of bacon fat
-- 1/8 cup of melted unsalted butter
+- 4 tablespoons of bacon fat
+- 4 tablespoons melted unsalted butter
 
 *Extra fanciness:
 - 2-4 strips of cooked bacon chopped into bits
